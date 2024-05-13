@@ -1,15 +1,22 @@
 # Configurations
+<<<<<<< HEAD
 title:            irini...
 longtitle:        Jekyll Gitbook
 author:           HE Tao
 email:            irini@gmail.com
+=======
+title:            Irene's Page!
+longtitle:        Jekyll Gitbook
+author:           HE Tao
+email:            hello@gmail.com
+>>>>>>> c6638db25901b61a8544d4ed0cde398bf25f4636
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
+url:              'https://IriniSgl.github.io'
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
